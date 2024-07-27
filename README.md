@@ -1,7 +1,7 @@
 - I’m myrachh (pronounced as "my rack")
 - I’m interested in programing
 - I’m currently learning python, css and html
-- How to reach me discord (@myrachh)
+- How to reach me: discord (@myrachh)
 - Pronouns: he/him
 - Fun fact: Im from Brazil
 
