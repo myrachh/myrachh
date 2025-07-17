@@ -1,7 +1,7 @@
-- I’m myrachh (pronounced as "my rack")
+- I’m Alex Freccia 
 - I’m interested in programing
-- I’m currently learning python, css and html
-- How to reach me: discord (@myrachh)
+- I’m currently learning Java
+- How to reach me: instagram (@sc.freccia)
 - Pronouns: he/him
 - Fun fact: Im from Brazil
 
